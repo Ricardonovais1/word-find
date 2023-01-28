@@ -20,7 +20,7 @@ const stages = [
   {id: 3, name: 'end'}
 ]
 
-let guessQty = 5;
+let guessQty = 10;
 
 function App() {
 
